@@ -1,0 +1,29 @@
+# create a class string_handler,
+# add function to revert a string and return it,
+# add a function to check if a string is palindrome return true if it is palindrome else false, 
+# add a functin to check number of vowels in a string and return the count,
+# add a function to return a string in Title case,
+# all null checks for all methods and string type checks on the input string and log error message if not satisfied with these coditions and raise exception.
+
+
+# create class math_handler,
+# add a methods to return factorial of a input number,
+# add a function to take input two integers and return the greatest common divisor,
+# add a function to generate fibonacci series for given input number,
+# check if the input is not null and int datatype and log the error if not and raise exception with appropriate message
+
+
+
+# create a class datetime_handler,
+# add a method return the age from input date of birth,
+# add a method to find the difference in days between to input datetime variables,
+# add a functin to check fi a given year is leap year and return boolean value,
+# add a function to print date in all possible formats, 
+# check the input datatypes, null check and error logging with approriate exception messages
+
+# create a class named validation handler,
+# add a functino to validate if given input string is a valid email address or not,
+# add a function to validate given input string is a valid indian phonenumber along with country code,
+# add a functino to check strength of the password and return weak,strong or medium,
+# also add condtion to include one special char,uppercase,lowercase,numerical character in the password,
+# add function to validate if the given input string doesn't contain special characters, remover PII information like name, email. phone number, address
